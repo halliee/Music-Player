@@ -3,7 +3,7 @@
 制作一个具有简单动画效果和交互功能的音乐播放器。
 ![Alt Text](images/1.png)
 <br />
-![Alt Text](images/2.png)
+![Alt Text](images/5.png)
 <br />
 ![Alt Text](images/3.png)
 <br />
